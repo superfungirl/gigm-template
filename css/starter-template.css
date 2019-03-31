@@ -169,4 +169,19 @@ p.no-border{
 img{
   vertical-align: middle;
 }
+
+.cards-section{
+  height: 150px;
+  margin-top: 40px;
+  padding: 10px 20px;
+  border-top: 2px solid #ef3a37;
+}
  
+.card1 .btn{
+  background: transparent;
+  width: 250px;
+  height: 70px;
+  font-size: 18px;
+  font-weight: lighter;
+
+}
